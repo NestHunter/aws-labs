@@ -117,5 +117,5 @@ This repository supports my path toward becoming a Cloud Security Engineer by he
 
 ## Related Repositories
 
-- [cloud-security-portfolio](https://github.com/NestHunter/cloud-security-portfolio) — central portfolio hub  
+- [aws-iam-security-policies](https://github.com/NestHunter/aws-iam-security-policies): IAM access control assessment and least-privilege policy library  
 - Future project repos tied to AWS architecture, Terraform, and cloud security labs
